@@ -1,5 +1,5 @@
 Javascript Pseudo 3D Racer (modified by tsnm)
-==========================
+=============================================
 
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript
 
